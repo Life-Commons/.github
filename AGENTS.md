@@ -1,9 +1,20 @@
-# Life Commons â€” Agent operating contract
+# Life Commons — Agent Operating Contract
 
-Scope: All repositories under the **Life-Commons** GitHub Organization.
-Brand register: `life-commons` (Source-led, observational, privacy-first, and non-clinical. Separate empirical observation from interpretation.)
+Scope: All repositories under the **Life-Commons** GitHub Organization (https://bluelifecommons.org).
+Brand register: `life-commons`
 
-## Core guardrails
+## Responsible Agent Team & Governance
+
+| Role | Assigned Owner |
+| :--- | :--- |
+| **Human Codeowner** | `@frankxai` |
+| **Organization Steward** | `steward-commons` |
+| **Executive Seat** | CSO (Impact, Longevity & Ethics Guardian) |
+| **Universal IS** | Health IS,Family IS,Self IS,Marine Intelligence |
+| **Council Lead** | starlight-embodiment,starlight-relational,starlight-sage |
+| **Primary Harnesses** | `Claude Code`, `Antigravity`, `Hermes` |
+
+## Core Guardrails
 
 1. **Think before coding.** State assumptions and surface tradeoffs. Verify file contents and branch state before writing.
 2. **Surgical changes.** Touch only the files required for the active slice. Never overwrite or reset another agent's uncommitted worktree.
@@ -15,3 +26,17 @@ Brand register: `life-commons` (Source-led, observational, privacy-first, and no
    - Preserve repository visibility parity: never copy or mirror private repository contents into a public repository.
    - Money fails closed; no autonomous spend or paid API provisioning without explicit human approval.
    - In health and mind domains, model observations only; never diagnose or make clinical claims.
+
+## Federated Repository Roster (7 repositories)
+
+| Repository | Visibility | Primary Owner | Role |
+| :--- | :--- | :--- | :--- |
+| `blue-life-commons` | `public` | `frankxai` | federated-mirror (SSOT: frankxai/blue-life-commons) |
+| `dino-life-commons` | `public` | `frankxai` | federated-mirror (SSOT: frankxai/dino-life-commons) |
+| `ocean-intelligence` | `private` | `frankxai` | federated-mirror (SSOT: frankxai/ocean-intelligence) |
+| `health-intelligence-system` | `public` | `frankxai` | federated-mirror (SSOT: frankxai/health-intelligence-system) |
+| `mind-intelligence-systems` | `public` | `frankxai` | federated-mirror (SSOT: frankxai/mind-intelligence-systems) |
+| `family-intelligence-os` | `public` | `frankxai` | federated-mirror (SSOT: frankxai/family-intelligence-os) |
+| `family-history-atlas` | `public` | `frankxai` | federated-mirror (SSOT: frankxai/family-history-atlas) |
+
+Built on SIP
