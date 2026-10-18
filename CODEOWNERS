@@ -1,0 +1,14 @@
+# Life Commons (Life-Commons) — Organization Default CODEOWNERS
+# Website: https://bluelifecommons.org
+# Brand ID: life-commons | Governance Mode: active
+# Steward Agent: steward-commons
+# Executive Seat: CSO (Impact, Longevity & Ethics Guardian)
+# Universal IS: Health IS,Family IS,Self IS,Marine Intelligence
+# Council Lead: starlight-embodiment,starlight-relational,starlight-sage
+# Primary Harnesses: Claude Code, Antigravity, Hermes
+#
+# Human approval gate (Maker != Checker invariant):
+* @frankxai
+/.github/ @frankxai
+/AGENTS.md @frankxai
+/SECURITY.md @frankxai
